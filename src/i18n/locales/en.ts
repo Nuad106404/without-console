@@ -157,6 +157,7 @@ export const en = {
     },
 
     payment: {
+      slipUploaded: 'Payment slip uploaded',
       taxes: 'Taxes and Fees',
       selectMethod: 'Select Payment Method',
       choosePreferred: 'Choose your preferred payment method to complete the booking',
