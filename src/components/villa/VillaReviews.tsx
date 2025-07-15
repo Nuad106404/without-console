@@ -9,7 +9,7 @@ const reviews = [
     rating: 5,
     date: '2025-02-15',
     comment: 'บ้านดี วิวสวย บรรยากาศดี เงียบสงบ เหมาะกับการพักผ่อนสุดๆ',
-    avatar: 'public/IMG_9468.JPG'
+    avatar: 'https://i.postimg.cc/hPWrPVN1/IMG-9468.jpg'
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const reviews = [
     rating: 4,
     date: '2025-02-10',
     comment: 'สนุกมากค่ะ บ้านมีครบทุกอย่าง ถ่ายรูปสวยทุกมุม',
-    avatar: 'public/IMG_9466.JPG'
+    avatar: 'https://i.postimg.cc/yNYnCB2q/IMG-9466.jpg'
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const reviews = [
     rating: 5,
     date: '2025-02-05',
     comment: 'ห้องพักสะอาด กว้าง บริการดีมาก กลับมาอีกแน่นอน!',
-    avatar: 'public/IMG_9467.JPG'
+    avatar: 'https://i.postimg.cc/QC5JJMK7/IMG-9467.jpg'
   }
 ];
 
